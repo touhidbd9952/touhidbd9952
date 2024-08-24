@@ -23,8 +23,7 @@
     </a> 
    </p>
 
-   <p>
-    <p dir="auto">🔭 I’m currently Working on <strong>Software Developing , Manual Testing & Automation Testing</strong></p>
+   🔭 I’m currently Working on <strong>Software Developing , Manual Testing & Automation Testing</strong> <br>
     <p dir="auto">🌱 I’m currently learning <strong>DevOps</strong></p>
     <p dir="auto">💬 Ask me about <strong>Software Developing, Software QA, Manual testing, Automation testing, DevOps</strong></p>
     <p dir="auto">📫 How to reach me <strong>You can send me email : <a href="mailto:touhidbd9952@gmail.com">touhidbd9952@gmail.com</a></strong></p>
