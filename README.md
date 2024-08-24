@@ -29,7 +29,8 @@
     <p dir="auto">💬 Ask me about <strong>Software Developing, Software QA, Manual testing, Automation testing, DevOps</strong></p>
     <p dir="auto">📫 How to reach me <strong>You can send me email : <a href="mailto:touhidbd9952@gmail.com">touhidbd9952@gmail.com</a></strong></p>
     <p dir="auto">📄 Know about my experiences <a href="https://github.com/touhidbd9952">Click Here</a></p>
-    
+
+    <div>
     <div dir="auto" class="markdown-heading">
       <h2 dir="auto" align="left" class="heading-element" >Skills &amp; Proficiencies</h2>
      </div>
@@ -46,7 +47,7 @@
     <p dir="auto">📙 Agile Methodology &amp; Project Management: Jira</p>
     <p dir="auto">📒 Operating System: Windows</p>
     <p dir="auto">📚 Concepts: OOP, MVC, SDLC, STLC</p>
-
+</div>
 </div>
 <br />
 
