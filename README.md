@@ -34,7 +34,7 @@
     
     
 
-    <p>
+    
     <div dir="auto" class="markdown-heading">
       <h2 dir="auto" align="left" class="heading-element" >Skills &amp; Proficiencies</h2>
      </div>
@@ -51,8 +51,8 @@
     <p dir="auto">📒 Operating System: Windows</p>
     <p dir="auto">📚 Concepts: OOP, MVC, SDLC, STLC</p>
     
-     </p>
-</div>
+     
+
 <br />
 
 <h3 align="left">🛠 Language and tools</h3>
