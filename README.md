@@ -29,14 +29,8 @@
     <p dir="auto">📫 How to reach me <strong>You can send me email : <a href="mailto:touhidbd9952@gmail.com">touhidbd9952@gmail.com</a></strong></p>
     <p dir="auto">📄 Know about my experiences <a href="https://github.com/touhidbd9952">Click Here</a></p>
 
-    <h3 dir="auto" align="left">Skills &amp; Proficiencies</h3>
+    
     <p dir="auto">📘 Software Developing: Requirement Analysis &amp; Design &amp; Developing</p>
-    <p>
-    <div dir="auto" class="markdown-heading">
-      <h2 dir="auto" align="left" class="heading-element" >Skills &amp; Proficiencies</h2>
-     </div>
-      
-      
     <p dir="auto">📘 Manual Testing: Test Plan review &amp; Analysis, Designing &amp; Implement Test Cases, Test Environment &amp; Reviewing, Test Execution &amp; Evaluation, Creating Test Report, Finding Defect, Analysis Defect Root Cause &amp; Bug Reporting</p>
     <p dir="auto">📗 Performance Testing, Load Testing, Stress Testing, Volume Testing Tool: JMeter</p>
     <p dir="auto">📗 API Testing Tool: Postman, JMeter</p>
@@ -48,7 +42,8 @@
     <p dir="auto">📙 Agile Methodology &amp; Project Management: Jira</p>
     <p dir="auto">📒 Operating System: Windows</p>
     <p dir="auto">📚 Concepts: OOP, MVC, SDLC, STLC</p>
-</p>
+    
+    
 </div>
 <br />
 
