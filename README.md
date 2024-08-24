@@ -22,7 +22,8 @@
     <img src="https://camo.githubusercontent.com/1c656b6665a7849c62c278be54d6c87e9cf94c068e4f4758fa4e6e2c514dd4c7/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7461736e696e74616e6961266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="touhidbd9952" data-canonical-src="https://komarev.com/ghpvc/?username=touhidbd9952&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;">
     </a> 
    </p>
-   
+
+   <div>
     <p dir="auto">🔭 I’m currently Working on <strong>Software Developing , Manual Testing & Automation Testing</strong></p>
     <p dir="auto">🌱 I’m currently learning <strong>DevOps</strong></p>
     <p dir="auto">💬 Ask me about <strong>Software Developing, Software QA, Manual testing, Automation testing, DevOps</strong></p>
@@ -46,7 +47,7 @@
     <p dir="auto">📒 Operating System: Windows</p>
     <p dir="auto">📚 Concepts: OOP, MVC, SDLC, STLC</p>
 
-
+</div>
 <br />
 
 <h3 align="left">🛠 Language and tools</h3>
