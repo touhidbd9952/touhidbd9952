@@ -31,8 +31,8 @@
     
     <p dir="auto">📄 Know about my experiences <a href="https://github.com/touhidbd9952">Click Here</a> </p>
     
-  <div class="markdown-heading" dir="auto">
-      <h2 align="left"  dir="auto">Skills &amp; Proficiencies</h2>
+  
+    <p dir="auto"><h2>Skills &amp; Proficiencies</h2></p>
 
     <p dir="auto">📘 Software Developing: Requirement Analysis &amp; Design &amp; Developing</p>
     <p dir="auto">📘 Manual Testing: Test Plan review &amp; Analysis, Designing &amp; Implement Test Cases, Test Environment &amp; Reviewing, Test Execution &amp; Evaluation, Creating Test Report, Finding Defect, Analysis Defect Root Cause &amp; Bug Reporting</p>
@@ -46,7 +46,7 @@
     <p dir="auto">📙 Agile Methodology &amp; Project Management: Jira</p>
     <p dir="auto">📒 Operating System: Windows</p>
     <p dir="auto">📚 Concepts: OOP, MVC, SDLC, STLC</p>
-  </div>
+  
     
       
     
