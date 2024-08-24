@@ -29,7 +29,7 @@
     <p dir="auto">📫 How to reach me <strong>You can send me email : <a href="mailto:touhidbd9952@gmail.com">touhidbd9952@gmail.com</a></strong></p>
     <p dir="auto">📄 Know about my experiences <a href="https://github.com/touhidbd9952">Click Here</a></p>
 
-    <h2 dir="auto" align="left" class="heading-element" >Skills &amp; Proficiencies</h2>
+    <h3 dir="auto" align="left" class="heading-element" >Skills &amp; Proficiencies</h3>
     <p dir="auto">📘 Software Developing: Requirement Analysis &amp; Design &amp; Developing</p>
     <p>
     <div dir="auto" class="markdown-heading">
