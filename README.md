@@ -38,7 +38,7 @@
     <p dir="auto">📕 Security Testing Tool: Nmap</p>
     <p dir="auto">📕 Programming Language: Java, C, C#, ASP.NET, PHP, Laravel, Python,  HTML, CSS, JavaScript, JQuery, Ajax</p>
     <p dir="auto">📗 Tools &amp; Framework: Jenkins, JMeter, GitHub</p>
-    <p dir="auto">📔 IDE: Adobe Dreamweaver, VS Code, Eclipse</p>
+    <p dir="auto">📔 IDE: Adobe Dreamweaver, Visual studio, VS Code, Eclipse</p>
     <p dir="auto">📓 Database: Sql, MySql</p>
     <p dir="auto">📙 Agile Methodology &amp; Project Management: Jira</p>
     <p dir="auto">📒 Operating System: Windows</p>
