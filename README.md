@@ -28,8 +28,9 @@
     <p dir="auto">💬 Ask me about <strong>Software Developing, Software QA, Manual testing, Automation testing, DevOps</strong></p>
     <p dir="auto">📫 How to reach me <strong>You can send me email : <a href="mailto:touhidbd9952@gmail.com">touhidbd9952@gmail.com</a></strong></p>
     <p dir="auto">📄 Know about my experiences <a href="https://github.com/touhidbd9952">Click Here</a></p>
-    <div class="markdown-heading" dir="auto">
-      <h2 align="left" class="heading-element" dir="auto">Skills &amp; Proficiencies</h2>
+    
+    <div dir="auto" class="markdown-heading">
+      <h2 dir="auto" align="left" class="heading-element" >Skills &amp; Proficiencies</h2>
      </div>
       
     <p dir="auto">📘 Software Developing: Requirement Analysis &amp; Design &amp; Developing</p>
@@ -46,7 +47,7 @@
     <p dir="auto">📚 Concepts: OOP, MVC, SDLC, STLC</p>
 
 
-
+<br />
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -75,10 +76,8 @@
 
 <h3 align="left">🔥   My Status :</h3>
 
-
+<br />
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=touhidbd9952&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-
