@@ -46,7 +46,7 @@
     <p dir="auto">📚 Concepts: OOP, MVC, SDLC, STLC</p>
 
 
-<br />
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -75,10 +75,10 @@
 
 <h3 align="left">🔥   My Status :</h3>
 
-<br />
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=touhidbd9952&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<br />
+
