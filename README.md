@@ -23,7 +23,7 @@
     </a> 
    </p>
 
-   <div>
+   <p>
     <p dir="auto">🔭 I’m currently Working on <strong>Software Developing , Manual Testing & Automation Testing</strong></p>
     <p dir="auto">🌱 I’m currently learning <strong>DevOps</strong></p>
     <p dir="auto">💬 Ask me about <strong>Software Developing, Software QA, Manual testing, Automation testing, DevOps</strong></p>
@@ -47,7 +47,7 @@
     <p dir="auto">📙 Agile Methodology &amp; Project Management: Jira</p>
     <p dir="auto">📒 Operating System: Windows</p>
     <p dir="auto">📚 Concepts: OOP, MVC, SDLC, STLC</p>
-</div>
+</p>
 </div>
 <br />
 
