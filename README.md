@@ -32,7 +32,7 @@
     
     
   <div class="markdown-heading" dir="auto">
-      <h2 align="left" class="heading-element" dir="auto">Skills &amp; Proficiencies</h2>
+      <h2 align="left"  dir="auto">Skills &amp; Proficiencies</h2>
 
     <p dir="auto">📘 Software Developing: Requirement Analysis &amp; Design &amp; Developing</p>
     <p dir="auto">📘 Manual Testing: Test Plan review &amp; Analysis, Designing &amp; Implement Test Cases, Test Environment &amp; Reviewing, Test Execution &amp; Evaluation, Creating Test Report, Finding Defect, Analysis Defect Root Cause &amp; Bug Reporting</p>
